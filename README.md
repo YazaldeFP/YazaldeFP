@@ -12,6 +12,7 @@ Sou desenvolvendor em Python Bash JavaScript HTML CSS
 # Minha inspiração
 ## Filipe Denchanps
 ## Gabriel Pato
+## AlexDk
 ![YazaldeFP GitHub stats](https://github-readme-stats.vercel.app/api?username=YazaldeFP&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazaldeFP&show_icons=true&theme=radical)
