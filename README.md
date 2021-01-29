@@ -2,11 +2,11 @@
 
 #Seja bem vindo ao meu repositório.
 ##Eu sou Yazalde sou programador 
-##Nas áreas de I.A Desenvolvimento web
+<p>Nas áreas de I.A Desenvolvimento web<p>
 
 
 #Sou apaixonado na linguagem JavaScript 
-# Sou desenvolvendor em Python Bash JavaScript HTML CSS 
+Sou desenvolvendor em Python Bash JavaScript HTML CSS 
 # utilizo fremework Flexbox grid reactjs
 
 ![YazaldeFP GitHub stats](https://github-readme-stats.vercel.app/api?username=YazaldeFP&show_icons=true)
