@@ -1,14 +1,16 @@
-#Ola😃
+# Ola😃😜
 
-#Seja bem vindo ao meu repositório.
-##Eu sou Yazalde sou programador 
+# Seja bem vindo ao meu repositório.
+## Eu sou Yazalde sou programador 
 <p>Nas áreas de I.A Desenvolvimento web<p>
 
 
-#Sou apaixonado na linguagem JavaScript 
+## Sou apaixonado na linguagem JavaScript 
 Sou desenvolvendor em Python Bash JavaScript HTML CSS 
 # utilizo fremework Flexbox grid reactjs
-
+# Minha inspiração
+## Filipe Denchanps
+## Gabriel Pato
 ![YazaldeFP GitHub stats](https://github-readme-stats.vercel.app/api?username=YazaldeFP&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazaldeFP&show_icons=true&theme=radical)
